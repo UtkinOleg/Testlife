@@ -1,0 +1,60 @@
+
+?congratulate grandfathers and grandmothers
+-New Year's Day
++Victory Day
+-Easter
+
+
+?give each other eggs
+-New Year's Day
++Easter
+-Birthday
+
+
+?decorate a special tree
+-Birthday
+-Women's Day
++New Year's Day
+
+
+?congratulate girls and women
+-Easter
++Women's Day
+-St Valentine's Day
+
+
+?takes place in February
++St Valentine's Day 
+-Victory Day
+-Birthday
+
+
+?New Year is celebrated on ...
++the first of January.
+-the second of January.
+-the first of December.
+
+
+?Victory Day is celebrated on ...
++the ninth of May.
+-the ninth of April.
+-the first of May.
+
+
+?Women's Day is celebrated on ...
+-the sixth of March.
++the eighth of March.
+-the eighth of April.
+
+
+?Day of Knowledge is celebrated on ...
++the first of September
+-the first of October
+-the third of September.
+
+
+?Christmas is celebrated on ...
++the twenty-fifth of December.
+-the twenty-forth of December.
+-the twenty-fifth of January
+

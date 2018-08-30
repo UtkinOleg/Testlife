@@ -1,0 +1,14 @@
+/* --- ERRORS --- */
+.error INPUT, .error TEXTAREA, .error SELECT {
+	}
+.iferror {
+	margin:0;
+  color: #FF4565; 
+  font-size: 100%;
+  font-family: Tahoma, Arial, Helvetica;
+	}
+.error .iferror {
+	display:block;
+	}
+
+.hint {  }

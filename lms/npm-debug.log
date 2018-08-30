@@ -1,0 +1,15 @@
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: This socket is closed.
+    at Socket._write (net.js:637:19)
+    at doWrite (_stream_writable.js:225:10)
+    at writeOrBuffer (_stream_writable.js:215:5)
+    at Socket.Writable.write (_stream_writable.js:182:11)
+    at Socket.write (net.js:615:40)
+    at Socket.stream.write (c:\Program Files (x86)\nodejs\node_modules\npm\node_modules\ansi\lib\newlines.js:36:21)
+    at Console.warn (console.js:61:16)
+    at process.errorHandler (c:\Program Files (x86)\nodejs\node_modules\npm\lib\utils\error-handler.js:77:13)
+    at process.emit (events.js:95:17)
+    at process._fatalException (node.js:272:26)

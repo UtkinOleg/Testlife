@@ -1,0 +1,65 @@
+
+?Most students  in ... Russia study English as a foreign language.
+
+-the
+-a
++-
+
+
+?He hopes t go to ...  Spain.
+
+-the
+-a
++-
+
+
+?We will go to ... Black Sea  next summer.
+
++the
+-a
+--
+
+
+?He wanted to climb ... Elbrus.
+
+-the
+-a
++-
+
+
+?We went to ski in ... Alps.  
+
++the
+-a
+--
+
+
+?...  United Kingdom lies to the North of Europe.
++the
+-a
+--
+
+
+?The  United Kingdom lies to the north of ... Europe.
+-a
+-the
++-
+
+
+?We lived  in ... Moscow last year.
+-a
+-the
++-
+
+
+?... Russian Federation is one of the largest countries in the world.
+-a
++the
+--
+
+
+?... Thames is the river that London stands on.
++the
+-a
+--
+

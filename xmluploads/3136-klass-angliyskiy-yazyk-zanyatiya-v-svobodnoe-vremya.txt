@@ -1,0 +1,65 @@
+
+?Choose the opposites.
+&to stop=to begin
+&to break=to repair
+&to like=to dislike
+
+
+?Choose the opposites.
+
+&to close=to open
+&to agree=to disagree
+&to love=to hate
+
+
+?Choose the opposites.
+
+&interesting=boring
+&beautiful=ugly
+&free=busy
+
+
+?Choose the opposites.
+
+&fantastic=real
+&same=different
+&correct=wrong
+
+
+?Choose the opposites.
+
+&false=true
+&serious=funny
+&polite=impolite
+
+
+?To be healthy and slim
+-gardening
++keeping fit
+-travelling
+
+
+?to work in the garden
++gardening
+-travelling
+-taking pictures
+
+
+?to make a photo
+
++taking picture
+-travelling
+-gardening
+
+
+?to go from place to place of to different places
+-gardening
++travelling
+-keeping fit
+
+
+?to bring things together
++collecting things
+-travelling
+-keeping fit
+

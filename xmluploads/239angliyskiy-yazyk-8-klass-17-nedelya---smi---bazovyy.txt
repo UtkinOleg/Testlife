@@ -1,0 +1,44 @@
+
+?Match means and their translation:
+&the most useful-=самый полезный
+&the easiest to use-=самый легкий в использовании
+&the most common-=самый общий
+&the most expensive-=самый дорогой
+&the most modern-=самый современный
+&the most interesting-=самый интересный
+&the most convenient-=самый удобный
+&the safest-=самый безопасный
+&the cheapest-=самый дешевый
+
+
+?Match the list of these means and their definitions:
+&Television=broadcasting progremmes (the news, plays, advertisments, shows etc.) for people to watch on their television sets;
+&Newspaper=a paper printed and sold usually daily or weekly with news, advertisments etc.;
+&Tabloid=a newspaper with rather small pages, many pictures and little serious news;
+&The Internet=a way to communicate with your partner who might be a thousand miles away using the computer (by e-mail);
+&Radio=the process of sending and receiving messages through the air; broadcasting programmes for people to listen to;
+
+
+?Match these verbs and their russian equivalents:
+&to relax=расслабиться
+&to read about famous people=читать о знаменитых людях
+&to take part in competitions=принимать участие в соревнованиях
+&to try your luck=попытать удачу
+&to study foreign languages=изучать иностранные языки
+
+
+?Match these verbs and their russian equivalents:
+&to study at home=обучаться дома
+&to have no time to communicate with relatives and friends=не иметь времени на общение с родными и друзьями
+&to keep fit=держать в форме
+&to find new friends=найти новых друзей
+&to get lazy=лениться
+
+
+?Match these verbs and their russian equivalents:
+&to traver round the world without wasting money=путешествовать по миру, не тратя при этом денег
+&to stop writing letters to your relatives=перестать писать письма своим родным
+&to sleep badly after horror films=плохо спать после просмотра фильма ужасов
+&to learn about bad side of life=знать о плохой стороне жизни
+&to put on weight=набирать вес
+
